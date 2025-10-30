@@ -9,3 +9,5 @@
 ![alt text](image-3.png)
 
 # Theory Part of Decision Tree
+- With the help of this we are solving 2 problems: 1) Regression 2) Classification
+![alt text](image-5.png)
