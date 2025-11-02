@@ -14,3 +14,6 @@
 ## Evaluating the Model:
 ![alt text](image-3.png)
 ![alt text](image-4.png)
+
+## In Code:
+- Dont forget to initialize max_iterations to some high value number (like 1000), otherwise error wld come that max limitations reached!
