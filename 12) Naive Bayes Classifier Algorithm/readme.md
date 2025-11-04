@@ -9,3 +9,6 @@
 ![alt text](image-1.png)
 
 ### sklearn.naive_bayes import GaussianNB
+### sklearn.naive_bayes import MultnomialNB
+
+![alt text](image-2.png)
