@@ -27,6 +27,8 @@
 - - Radial basis Kernel
 - - Sigmoid Kernel
 
+##### Radial Basis Kernel:
+- measures the similarity between data points based on their Euclidean distance.
 
 ### Hyperparameter tuning
 - Hyperparameters can be tuned to improve the performance of an SVM model. Optimal hyperparameters can be found using grid search and cross-validation methods, which will iterate through different kernel, regularization (C), and gamma values to find the best combination.
