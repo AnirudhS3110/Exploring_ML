@@ -1,31 +1,8 @@
-# Machine Learning Course - Topics and sklearn Usage
+# CODE BASICS Machine Learning Basics Course (Youtube)
 
 ## Summary
 
-This repository contains a comprehensive machine learning course covering fundamental concepts and practical implementations using scikit-learn. The course progresses from basic regression techniques to advanced ensemble methods and feature engineering.
-
-### Topics Covered (Folders 1-18)
-
-1. **Linear Regression** - Simple linear regression for predicting continuous values
-2. **Multivariate Linear Regression** - Multiple features for regression analysis
-3. **Categorical Data Handling** - One-hot encoding for categorical variables
-4. **Train-Test Split** - Data splitting for model evaluation
-5. **Logistic Regression** - Binary classification problems
-6. **Logistic Regression - Multivariate Classification** - Multi-class classification
-7. **Decision Trees** - Tree-based classification algorithms
-8. **Support Vector Machine (SVM)** - SVM for classification tasks
-9. **Random Forest** - Ensemble of decision trees
-10. **Cross Validation** - K-fold and stratified cross-validation techniques
-11. **K-Means Clustering** - Unsupervised clustering algorithm
-12. **Naive Bayes Classifier** - Probabilistic classification using Bayes theorem
-13. **Hyperparameter Tuning** - GridSearchCV and RandomizedSearchCV for model optimization
-14. **L1 & L2 Regularization** - Lasso and Ridge regression for overfitting prevention
-15. **Principal Component Analysis (PCA)** - Dimensionality reduction technique
-16. **Bias vs Variance** - Understanding model complexity and generalization
-17. **Bagging & Boosting** - Ensemble techniques (BaggingClassifier, RandomForest)
-18. **Feature Engineering** - Outlier detection and removal using IQR, Percentile, Z-score, and Standard Deviation methods
-
----
+This repository contains a comprehensive machine learning course covering fundamental concepts and practical implementations using scikit-learn. The course progresses from basic regression techniques to advanced ensemble methods and feature engineering. This redme.md is just for my own revision puropose, a summary of the functions or modules used for training.
 
 ## sklearn Modules and Functions Used
 
@@ -144,6 +121,29 @@ from sklearn.datasets import load_wine
 # Decomposition
 from sklearn.decomposition import PCA
 ```
+
+---
+
+### Topics Covered (Folders 1-18)
+
+1. **Linear Regression** - Simple linear regression for predicting continuous values
+2. **Multivariate Linear Regression** - Multiple features for regression analysis
+3. **Categorical Data Handling** - One-hot encoding for categorical variables
+4. **Train-Test Split** - Data splitting for model evaluation
+5. **Logistic Regression** - Binary classification problems
+6. **Logistic Regression - Multivariate Classification** - Multi-class classification
+7. **Decision Trees** - Tree-based classification algorithms
+8. **Support Vector Machine (SVM)** - SVM for classification tasks
+9. **Random Forest** - Ensemble of decision trees
+10. **Cross Validation** - K-fold and stratified cross-validation techniques
+11. **K-Means Clustering** - Unsupervised clustering algorithm
+12. **Naive Bayes Classifier** - Probabilistic classification using Bayes theorem
+13. **Hyperparameter Tuning** - GridSearchCV and RandomizedSearchCV for model optimization
+14. **L1 & L2 Regularization** - Lasso and Ridge regression for overfitting prevention
+15. **Principal Component Analysis (PCA)** - Dimensionality reduction technique
+16. **Bias vs Variance** - Understanding model complexity and generalization
+17. **Bagging & Boosting** - Ensemble techniques (BaggingClassifier, RandomForest)
+18. **Feature Engineering** - Outlier detection and removal using IQR, Percentile, Z-score, and Standard Deviation methods
 
 ---
 
